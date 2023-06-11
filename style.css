@@ -1,0 +1,57 @@
+body {
+    font-family: Arial;
+    background: url(img/gambar\ bg.webp)
+}
+
+header {
+    background-color: #e6ac00;
+    color: antiquewhite;
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    display: inline;
+}
+
+
+ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    background-color: red;
+}
+
+main {
+    padding: 100px;
+}
+
+main h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;;
+}
+
+main img{
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    background-color: #e6ac00;
+    color: #fff;
+    padding: 50px;
+    text-align: center;
+}
+
+footer img {
+    width: 30px;
+}
+
+/* mohon maaf kak jika berantakan:) */
